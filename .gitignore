@@ -214,5 +214,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# C++ executable files
+*.exe
+*.out
+
 # Streamlit
 .streamlit/secrets.toml
