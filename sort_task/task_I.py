@@ -30,3 +30,14 @@ else:
         print("YES")
     else:
         print("NO")
+
+# from collections import Counter
+
+# word1 = input()
+# word2 = input()
+
+# # Counter сам посчитает буквы в обоих словах и сравнит два словаря
+# if Counter(word1) == Counter(word2):
+#     print("YES")
+# else:
+#     print("NO")
