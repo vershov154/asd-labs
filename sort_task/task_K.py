@@ -1,5 +1,4 @@
-input_data = input()
-n = int(input_data)
+n = int(input())
 
 a = list(range(1, n + 1))
     
