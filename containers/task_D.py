@@ -38,7 +38,6 @@ while True:
     elif command == "pop":
         print(queue.pop())
 
-    # Изменено с "back" на "front"
     elif command == "front":
         print(queue.front())
 
