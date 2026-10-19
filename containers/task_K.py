@@ -2,7 +2,7 @@ n = int(input())
 a = list(map(int, input().split()))
 
 L = [0] * n
-R = [0] * n
+R = [n - 1] * n
 
 stack = []
 for i in range(n):
