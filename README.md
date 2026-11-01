@@ -15,3 +15,6 @@
 * J. [Космическое поселение](bin_search/task_mars.py)
 * M. [Провода](bin_search/task_line.py)
 * N. [Вырубка леса](bin_search/task_woods.py)
+
+## Лабораторная работа №3: [Контейнеры](./containers/README.md)
+
